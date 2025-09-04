@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Coverage / test reports
+coverage/
+reports/
+
+# Python cache (kalau ada automation pakai Python)
+__pycache__/
+
+# Node.js modules (kalau nanti ada JS automation)
+node_modules/
