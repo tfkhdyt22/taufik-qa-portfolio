@@ -14,5 +14,12 @@ reports/
 # Python cache (kalau ada automation pakai Python)
 __pycache__/
 
-# Node.js modules (kalau nanti ada JS automation)
+# Node.js modules
 node_modules/
+
+# Cypress auto-generated folders
+cypress/videos/
+cypress/screenshots/
+
+# Optional: Cypress cache
+.cypress/
